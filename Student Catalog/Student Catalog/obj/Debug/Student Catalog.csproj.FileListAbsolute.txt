@@ -1,0 +1,15 @@
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\Student Catalog.csproj.AssemblyReference.cache
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\Student Catalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\Student_Catalog.Properties.Resources.resources
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\Student Catalog.csproj.GenerateResource.cache
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\Student Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\bin\Debug\StudentCatalog.accdb
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\bin\Debug\Student Catalog.exe.config
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\bin\Debug\Student Catalog.exe
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\bin\Debug\Student Catalog.pdb
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\Student Catalog.exe
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\Student Catalog.pdb
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\CatalogDataBase.Form1.resources
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\CatalogDataBase.Form2.resources
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\CatalogDataBase.Form3.resources
+C:\Users\Albin\Desktop\Student Catalog\Student Catalog\obj\Debug\CatalogDataBase.Form4.resources
